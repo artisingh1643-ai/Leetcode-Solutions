@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0905-sort-array-by-parity](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -22,6 +23,7 @@
 | [0011-container-with-most-water](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
