@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -17,6 +18,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -49,4 +51,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
