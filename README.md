@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [1486-xor-operation-in-an-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
