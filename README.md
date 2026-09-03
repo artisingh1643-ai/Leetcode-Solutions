@@ -19,6 +19,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -45,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -76,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
