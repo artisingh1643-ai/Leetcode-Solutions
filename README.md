@@ -12,6 +12,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1652-defuse-the-bomb](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [3925-concatenate-array-with-reverse](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -27,6 +28,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
