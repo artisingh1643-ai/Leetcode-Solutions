@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -69,6 +70,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
