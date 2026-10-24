@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
