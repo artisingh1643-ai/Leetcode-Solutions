@@ -55,6 +55,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -104,5 +105,10 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0682-baseball-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
