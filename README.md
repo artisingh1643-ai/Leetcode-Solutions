@@ -43,6 +43,7 @@
 | [0125-valid-palindrome](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -63,6 +64,7 @@
 | [0125-valid-palindrome](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
