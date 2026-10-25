@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -76,11 +77,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -127,4 +131,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
