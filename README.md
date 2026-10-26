@@ -69,6 +69,7 @@
 | [0076-minimum-window-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -104,12 +106,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
