@@ -21,6 +21,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -67,6 +68,7 @@
 | [1323-maximum-69-number](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -154,4 +156,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
