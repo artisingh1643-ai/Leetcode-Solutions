@@ -24,6 +24,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [3925-concatenate-array-with-reverse](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -60,6 +61,7 @@
 | [0066-plus-one](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1486-xor-operation-in-an-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
@@ -71,6 +73,7 @@
 | [0125-valid-palindrome](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
