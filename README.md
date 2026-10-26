@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [1323-maximum-69-number](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
