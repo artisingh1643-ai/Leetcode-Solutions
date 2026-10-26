@@ -59,6 +59,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1486-xor-operation-in-an-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
@@ -96,6 +97,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
 |  |
 | ------- |
