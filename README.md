@@ -29,6 +29,7 @@
 | [0415-add-strings](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Sliding Window
 |  |
@@ -69,6 +70,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## String
 |  |
 | ------- |
