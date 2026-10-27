@@ -53,6 +53,7 @@
 | [0541-reverse-string-ii](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
