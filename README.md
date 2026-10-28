@@ -48,6 +48,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -176,9 +178,14 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
