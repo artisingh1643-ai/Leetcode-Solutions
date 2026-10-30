@@ -16,6 +16,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0706-design-hashmap](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0905-sort-array-by-parity](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -134,11 +135,13 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0706-design-hashmap](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +182,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0706-design-hashmap](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -188,4 +192,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
