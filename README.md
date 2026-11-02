@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0706-design-hashmap](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
