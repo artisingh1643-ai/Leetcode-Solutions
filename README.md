@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -183,6 +184,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -193,6 +195,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
