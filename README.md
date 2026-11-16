@@ -47,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -81,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
@@ -110,6 +112,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
@@ -210,4 +213,8 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
