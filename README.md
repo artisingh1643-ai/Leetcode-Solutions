@@ -158,6 +158,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Stack
 |  |
 | ------- |
@@ -235,4 +236,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
