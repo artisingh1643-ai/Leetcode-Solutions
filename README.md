@@ -156,6 +156,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -239,6 +241,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/artisingh1643-ai/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
